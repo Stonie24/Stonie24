@@ -26,4 +26,5 @@ Frontend-focused developer graduating from BTH Web Programming in 2026. I build 
 | Usability Evaluation of AI Support | Telenor AB | Research + analysis (thesis) |
 
 ## Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/william-stenqvist-a99b113b6/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:willefille24@gmail.com)
