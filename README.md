@@ -1,4 +1,4 @@
-# Hi, I'm William 👋
+# Hi, I'm William 
 
 Frontend-focused developer, graduated from the Web Programming program at BTH in 2026. I build interfaces with **React, TypeScript and React Native**, from cross-platform mobile apps to customer-facing web apps, and I design them in Figma first.
 
@@ -12,7 +12,6 @@ Frontend-focused developer, graduated from the Web Programming program at BTH in
 
 | Project | Customer | My role | Tech |
 
-|---|---|---|---|
 
 | Connectitude Boards | Connectitude | UX designer + frontend developer: Figma designs each sprint, calendar and "green cross" widgets, widget library with tag filtering, navigation system | Angular, TypeScript, GridStack, Azure |
 
