@@ -1,30 +1,35 @@
-# Hi, I'm William
+# Hi, I'm William 👋
 
-Frontend-focused developer graduating from BTH Web Programming in 2026. I build things with React, TypeScript, and React Native — from AI chatbots to cross-platform mobile apps.
+Frontend-focused developer, graduated from the Web Programming program at BTH in 2026. I build interfaces with **React, TypeScript and React Native**, from cross-platform mobile apps to customer-facing web apps, and I design them in Figma first.
+
+**Open to work:** Frontend Developer / Full Stack (frontend-heavy) roles in Sweden, on-site or hybrid, available now.
 
 ## What I'm working on
 
-- **[Nudge](https://github.com/Stonie24/Nudge)** — A cross-platform task & habit tracker built with Expo, Supabase, and TanStack Query
+**[Nudge](https://github.com/Stonie24/Nudge)** — a cross-platform task and habit tracker built with React Native (Expo), TypeScript, Supabase and TanStack Query. Daily board, kanban and list views, tags, search and dark mode.
+
+## Projects with real customers
+
+| Project | Customer | My role | Tech |
+
+|---|---|---|---|
+
+| Connectitude Boards | Connectitude | UX designer + frontend developer: Figma designs each sprint, calendar and "green cross" widgets, widget library with tag filtering, navigation system | Angular, TypeScript, GridStack, Azure |
+
+| AI customer support chatbot | Affärsverken | Frontend developer + UI designer: Figma mockup, chat UI, saved conversations, developer feedback page, mobile view | Next.js, Tailwind CSS, Flask, GPT-4, RAG (FAISS) |
+
+| Usability evaluation of AI customer support (bachelor's thesis) | Telenor AB | Research and analysis | — |
 
 ## Tech
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Frontend:** TypeScript, JavaScript, React, Next.js, React Native / Expo, Vue, Angular, HTML, CSS, Tailwind
 
-## Industry Projects
+**Backend & data:** Node.js, Python (Flask), REST APIs, Supabase / PostgreSQL, MongoDB, MySQL
 
-| Project | Company | Role |
-|---|---|---|
-| AI Customer Support Chatbot | Affärsverken | Full-stack + prompt engineering |
-| Dynamic Industrial Boards | Connectitude | UX/UI lead + frontend dev |
-| Usability Evaluation of AI Support | Telenor AB | Research + analysis (thesis) |
+**Tools:** Git, Docker, Azure, Figma, Jest, Cypress
 
-## Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-stenqvist-a99b113b6/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:willefille24@gmail.com)
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/william-stenqvist-a99b113b6/) · willefille24@gmail.com
+
+Note: only keep "Jest, Cypress" if you can talk concretely about what you tested. Only keep "Azure" and "Docker" if they are still true on your CV.
