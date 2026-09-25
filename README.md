@@ -31,5 +31,3 @@ Frontend-focused developer, graduated from the Web Programming program at BTH in
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/william-stenqvist-a99b113b6/) · willefille24@gmail.com
-
-Note: only keep "Jest, Cypress" if you can talk concretely about what you tested. Only keep "Azure" and "Docker" if they are still true on your CV.
